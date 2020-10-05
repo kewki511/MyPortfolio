@@ -1,0 +1,49 @@
+/* starting off with rounding the borders and centering my selfie picture */
+.me, .top{
+  border-radius: 80px;
+  text-align: center;
+  padding: 24px;
+}
+/* just adding some background color */
+.top{
+  background-color: midnightblue
+}
+/* customizing the header */
+h1{
+  text-align: center;
+  font-family: "Comic Sans Ms";
+  font-size: 64px;
+  color: darkred;
+  text-transform: uppercase;
+}
+/* centering the navigation bar and changing the font */
+nav{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+  margin: 65px;
+}
+
+/* putting in link rollovers */
+a:link {color: blue}
+a:visited {color: red}
+a:hover {color: pink}
+a:active {color: yellow}
+
+/* styling h2 and h3 text */
+h2, h3{
+  font-family: fantasy;
+  color: indigo;
+} 
+
+/* styling paragraph text */
+p{
+  font-family: sans-serif;
+  margin: 12px;
+  line-height: 20px;
+}
+
+/* styling lists */
+ul, ol, li{
+  font-family: sans-serif;
+}
