@@ -1,2 +1,2 @@
 # MyPortfolio
-My GitHub portfolio on about me
+My GitHub portfolio on me
